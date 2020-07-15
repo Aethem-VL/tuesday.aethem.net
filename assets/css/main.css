@@ -933,7 +933,8 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  color: #dcd6f7;
+  background-color: #424874;
 }
 
 .about {
@@ -948,7 +949,7 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
+  background-color: #a6b1e1;
 }
 
 .about img {
